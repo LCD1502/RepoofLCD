@@ -1,0 +1,20 @@
+#firest-heading {
+        color: red;
+        font-size: 20px;
+}
+
+.second-heading {
+    color:  rgb(255, 30, 0);
+    font-size: 30px;
+}
+      
+
+.container div div {
+    color: red;
+    font-size: 20px;
+}
+
+:root {
+    --text-color: green;
+}
+
